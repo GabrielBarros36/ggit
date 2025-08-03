@@ -1,0 +1,2 @@
+[alias]
+fmt-build = ["fmt", "build"]
